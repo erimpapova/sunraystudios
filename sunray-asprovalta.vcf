@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sunray Studios - Asprovalta
+ORG:Sunray Studios
+EMAIL;TYPE=INTERNET:asprovalta@sunraystudios.gr
+TEL;TYPE=CELL:+30 697 326 72 70
+TEL;TYPE=VOICE:+30 2397 027 309
+URL:https://sunrayasprovalta.gr
+item1.URL:https://asprovaltaqr.carrd.co/
+item1.X-ABLabel:More contact options (Viber, WhatsApp, Messenger)
+ADR;TYPE=WORK:;;Metaxa 1;Asprovalta;;570 21;Greece
+GEO:40.720432077296245;23.708466797552475
+END:VCARD
